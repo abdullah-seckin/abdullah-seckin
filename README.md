@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:22C55E,100:F59E0B&height=220&section=header&text=Abdullah%20SE%C3%87K%C4%B0N&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Specialist%20%7C%20Full-Stack%20Developer%20%7C%20AI%20%26%20Automation%20Builder&descAlignY=58&descSize=18" alt="Abdullah SEÇKİN profile banner" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=22C55E&center=true&vCenter=true&width=900&lines=Building+business-ready+software+systems;Full-stack+web+apps%2C+AI+tools+and+automation;Turning+real+operational+problems+into+clean+digital+products)](https://git.io/typing-svg)
 
-![Portfolio](https://img.shields.io/badge/Portfolio-coming%20soon-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullah%20Se%C3%A7kin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-se%C3%A7kin-71268722a/)
-[![GitHub](https://img.shields.io/badge/GitHub-abdullah--seckin-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdullah-seckin)
+![Typing SVG](abdullah-seckin-profile-banner.svg)
+
+
 
 </div>
 
@@ -42,7 +40,7 @@ focus:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,html,css,tailwind,flask,mysql,firebase,git,github,vscode,linux" alt="Tech stack icons" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,c,cpp,arduino,ts,js,python,react,nextjs,nodejs,html,opencv,ros,docker,mongodb,cloudflare,django,css,tailwind,flask,mysql,firebase,gitlab,github,vscode,linux,windows,apple,aws,php,kali,pytorch,ubuntu,debian,raspberrypi,wordpress,redhat,cmake,vim,bash,matlab,gradle" alt="Tech stack icons" />
 
 </div>
 
