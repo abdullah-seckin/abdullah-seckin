@@ -84,4 +84,6 @@ I am always interested in practical software ideas, automation projects and prod
 
 </div>
 
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=F0F0F&text=Best%20Regards&section=footer&fontColor=FFF0F0&reversal=false&fontAlign=50&fontAlignY=70" alt="Footer wave" />
+</div>
