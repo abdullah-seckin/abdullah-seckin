@@ -33,12 +33,12 @@ focus:
 
 | Project | What it does | Tech |
 |---|---|---|
-| [BRK Distribution](https://github.com/abdullah-seckin/brk-distribution) | Flutter/Dart distribution operations project for mobile business workflows. | Dart, Flutter, JavaScript |
-| [Moper Complex](https://github.com/abdullah-seckin/moper-complex) | Flutter mobile app that helps small businesses log employee working hours. | Dart, Flutter, Dockerfile |
-| [GitHub Profile README](https://github.com/abdullah-seckin/abdullah-seckin) | Visual GitHub profile landing page with project highlights, profile cards and contact links. | Markdown, SVG |
 | [ISG ARSIV](https://github.com/abdullah-seckin/isgarsive-com) | Multi-tenant document management system for digitizing occupational health and safety workflows. | TypeScript, JavaScript |
-| [Cam Security Guard](https://github.com/abdullah-seckin/cam-security-guard) | Computer-vision security system with real-time human detection, recording, Telegram alerts and web admin panel. | Python, OpenCV, YOLO, Flask |
+| [Moper Complex](https://github.com/abdullah-seckin/moper-complex) | Flutter mobile app that helps small businesses log employee working hours. | Dart, Flutter, Dockerfile |
 | [E52 LoRa UART Library](https://github.com/abdullah-seckin/e52-xxxnw22w) | Python interface for E52 LoRa modules via UART and AT commands. | Python, UART, LoRa |
+| [BRK Distribution](https://github.com/abdullah-seckin/brk-distribution) | Flutter/Dart distribution operations project for mobile business workflows. | Dart, Flutter, JavaScript |
+| [Cam Security Guard](https://github.com/abdullah-seckin/cam-security-guard) | Computer-vision security system with real-time human detection, recording, Telegram alerts and web admin panel. | Python, OpenCV, YOLO, Flask |
+
 
 ## 🧰 Tech Stack
 
