@@ -1,10 +1,10 @@
 <div align="center">
 
+![Abdullah SEÇKİN profile banner](abdullah-seckin-profile-banner.svg)
 
-
-![Typing SVG](abdullah-seckin-profile-banner.svg)
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullah%20Se%C3%A7kin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-se%C3%A7kin-71268722a/)
+[![GitHub](https://img.shields.io/badge/GitHub-abdullah--seckin-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdullah-seckin)
+![Portfolio](https://img.shields.io/badge/Portfolio-coming%20soon-22C55E?style=for-the-badge)
 
 </div>
 
@@ -14,7 +14,7 @@
 
 I am a **Software Specialist at Robsys** based in **Istanbul**, focused on building practical, reliable and scalable software products.
 
-I enjoy working where software meets real operations: document workflows, automation, AI-assisted systems, computer vision, IoT communication and business dashboards. My goal is to build products that are not only technically solid, but also useful for the people who rely on them every day.
+I enjoy working where software meets real operations: document workflows, mobile business apps, automation, AI-assisted systems, computer vision, IoT communication and operational dashboards. My goal is to build products that are not only technically solid, but also useful for the people who rely on them every day.
 
 ```yaml
 name: Abdullah SEÇKİN
@@ -23,6 +23,7 @@ company: Robsys
 focus:
   - Full-stack product development
   - AI-assisted automation
+  - Flutter mobile apps
   - Computer vision systems
   - IoT and hardware communication
   - Business workflow digitization
@@ -32,8 +33,10 @@ focus:
 
 | Project | What it does | Tech |
 |---|---|---|
+| [BRK Distribution](https://github.com/abdullah-seckin/brk-distribution) | Flutter/Dart distribution operations project for mobile business workflows. | Dart, Flutter, JavaScript |
+| [Moper Complex](https://github.com/abdullah-seckin/moper-complex) | Flutter mobile app that helps small businesses log employee working hours. | Dart, Flutter, Dockerfile |
+| [GitHub Profile README](https://github.com/abdullah-seckin/abdullah-seckin) | Visual GitHub profile landing page with project highlights, profile cards and contact links. | Markdown, SVG |
 | [ISG ARSIV](https://github.com/abdullah-seckin/isgarsive-com) | Multi-tenant document management system for digitizing occupational health and safety workflows. | TypeScript, JavaScript |
-| [Moper Complex](https://github.com/abdullah-seckin/moper-complex) | A basic Flutter-based mobile app that allows small businesses to log employee working hours. | Flutter, Dart, MongoDB |
 | [Cam Security Guard](https://github.com/abdullah-seckin/cam-security-guard) | Computer-vision security system with real-time human detection, recording, Telegram alerts and web admin panel. | Python, OpenCV, YOLO, Flask |
 | [E52 LoRa UART Library](https://github.com/abdullah-seckin/e52-xxxnw22w) | Python interface for E52 LoRa modules via UART and AT commands. | Python, UART, LoRa |
 
@@ -48,6 +51,7 @@ focus:
 ## 📌 What I Build
 
 - Business-focused web platforms and internal tools
+- Flutter mobile apps for field and workplace operations
 - Multi-tenant SaaS-style workflows
 - AI and computer-vision powered automation
 - Python tools for hardware, sensors and communication modules
@@ -66,7 +70,8 @@ focus:
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=abdullah-seckin&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdullah-seckin&theme=tokyonight" alt="Most commit languages" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdullah-seckin&theme=tokyonight&utcOffset=3" alt="Productive time" />
 
 <br />
 
